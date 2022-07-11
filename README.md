@@ -22,7 +22,7 @@ pip install numpy
 
 - Clone repository by typing following command (within command line)
 ```
-git clone https://github.com/socodes/avocado-analiytics
+git clone https://github.com/socodes/avocado_analiytics
 ```
 ## Sample Outputs:
 ![](https://raw.githubusercontent.com/socodes/avocado_analytics/main/1.png)
