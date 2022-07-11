@@ -25,6 +25,6 @@ pip install numpy
 git clone https://github.com/socodes/avocado-analiytics
 ```
 ## Sample Outputs:
-![](https://raw.githubusercontent.com/socodes/avocado-analiytics/main/1.png)
-![](https://raw.githubusercontent.com/socodes/avocado-analiytics/main/2.png)
-![](https://raw.githubusercontent.com/socodes/avocado-analiytics/main/3.png)
+![](https://raw.githubusercontent.com/socodes/avocado_analytics/main/1.png)
+![](https://raw.githubusercontent.com/socodes/avocado-analytics/main/2.png)
+![](https://raw.githubusercontent.com/socodes/avocado-analytics/main/3.png)
